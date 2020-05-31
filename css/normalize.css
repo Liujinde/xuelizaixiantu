@@ -1,0 +1,22 @@
+/*
+* @Author: dell
+* @Date:   2020-05-30 16:10:28
+* @Last Modified by:   dell
+* @Last Modified time: 2020-05-30 16:15:01
+*/
+* {
+	margin: 0;
+	padding: 0;
+}
+ul {
+	list-style-type: none;
+}
+a {
+	text-decoration: none;
+}
+.clear:after {
+	content:'';
+	display:block;
+	height:0;
+	clear:both;
+}
